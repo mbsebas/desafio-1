@@ -35,9 +35,7 @@ body {
     flex-wrap: wrap;
     height: 100%;
     min-height: 600px;
-
     margin: 1em 0;
-    background-color: rgb(110, 7, 7);
     margin-bottom: 10%;
 }
 .card {
